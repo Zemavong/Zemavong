@@ -1,10 +1,10 @@
 ### Welcome :raising_hand_man:
 
-I want to tell a little about myself:
+My name is Stepan, I am 24 years old. I've been doing web development for over a year. I want to tell about myself:
  
 ## :computer:	 Hard skills: 
 
-  I own: PHP, MySQL, HTML, CSS, JavaScript, OOP. Sometimes write C# and GO. Constantly evolving, now I plan to learn basic design patterns and Laravel.
+  Proficient: PHP, MySQL, HTML, CSS, JavaScript, OOP. Sometimes write C# and GO. Constantly evolving, now I plan to learn basic design patterns and Laravel.
 
 ## :people_hugging:  Soft skills:
   I improve my communication skills through sports: I really like to play :volleyball: volleyball classics, and since it is a team sport, you often need to communicate with a team and distribute roles to achieve common goals. 
